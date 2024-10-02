@@ -1,4 +1,5 @@
 # SIBR Core
+Forked from https://github.com/RongLiu-Leo/Gaussian-Splatting-Monitor/tree/main/SIBR_viewers
 
 **SIBR** is a System for Image-Based Rendering.  
 It is built around the *sibr-core* in this repo and several *Projects* implementing published research papers.  
